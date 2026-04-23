@@ -30,7 +30,7 @@ A multi user blog project using Laravel 10 and Oredoo blog template
 
 - Clone this repository
 ```
-git clone https://github.com/sagarkhan04/oredoo-laravel-blog-project.git
+git clone https://github.com/Saa-garr/oredoo-laravel-blog-project.git
 ```
 - Change directory
 ```
@@ -83,7 +83,7 @@ Password:admin
 
 ## Credit
 
-- **[Sagar Khan](https://github.com/sagarkhan04/)**
+- **[Sagar](https://github.com/Saa-garr/)**
 
 ## Contact:
 [![Find me on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagarr04)  [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01518955440)
