@@ -16,14 +16,14 @@ A multi user blog project using Laravel 10 and Oredoo blog template
 
 ## Screenshots
 <p align="center" width="100%">
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_1.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_2.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_3.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/Saa-garr/oredoo-laravel-blog-project/main/Screenshots/Screenshot_1.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/Saa-garr/oredoo-laravel-blog-project/main/Screenshots/Screenshot_2.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/Saa-garr/oredoo-laravel-blog-project/main/Screenshots/Screenshot_3.png"/>
 </p>
 <p align="center" width="100%">
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_4.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_5.png"/>
-    <img width="30%" src="https://raw.githubusercontent.com/alsayeedar/oredoo-laravel-blog-project/main/Screenshots/Screenshot_6.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/Saa-garr/oredoo-laravel-blog-project/main/Screenshots/Screenshot_4.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/Saa-garr/oredoo-laravel-blog-project/main/Screenshots/Screenshot_5.png"/>
+    <img width="30%" src="https://raw.githubusercontent.com/Saa-garr/oredoo-laravel-blog-project/main/Screenshots/Screenshot_6.png"/>
 </p>
 
 ## Installation
